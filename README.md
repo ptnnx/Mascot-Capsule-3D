@@ -1,2 +1,4 @@
-# Mascot-Capsule-3D
-Mascot Capsule 3D is a proprietary 3D graphics engine developed by Hi Corporation. It was mostly used in Japanese devices, but it also made it overseas featured in many Sony Ericsson devices. Many developers made use of this tech to bring higher quality 3D graphics on the Sony Ericsson version of their J2ME games
+# MascotCapsule Archaeology
+
+ - [Javadoc for com.mascotcapsule.micro3d.v3](https://j2me-preservation.github.io/MascotCapsule/javadoc/)
+ - [List of known games](https://github.com/j2me-preservation/MascotCapsule/wiki/List-of-known-games)
