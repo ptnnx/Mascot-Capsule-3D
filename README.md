@@ -10,5 +10,6 @@
 
 * The Mascot Capsule should not be confused with normal JSR-184 implementations. Normally the Mascot Capsule was exclusive to Sony Ericsson and Samsung, Nokia versions (which were generally brutally inferior to Sony Ericsson, in any Java ME standard) used to use normal JSR-184, as for example in Worms Forts 3D or Asphalt 3 3D
 
- - [Javadoc for com.mascotcapsule.micro3d.v3](https://j2me-preservation.github.io/MascotCapsule/javadoc/)
- - [List of known games](https://github.com/j2me-preservation/MascotCapsule/wiki/List-of-known-games)
+
+* Mascot Capsule 3D was used by multiple studios but the one who made the most use of this standard was the relatively popular Fishlabs Entertainment GmbH studio is a German mobile game development company established in 2004. It has been committed to the development and leading 3D mobile games developer, using its Abyss Engine 1.0/2.0 on smartphones. Such as Galaxy on Fire 3D, Heli Strike 3D, Robot Alliance 3D, Tank Raid, Blades & Magic or Robot Alliance, among others 3D games.
+
